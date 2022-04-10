@@ -1,6 +1,7 @@
 import React from "react";
 import { useState } from "react";
 import FlashcardList from "./FlashcardList";
+import './App.css';
 
 export default function App() {
 
